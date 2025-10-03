@@ -1,5 +1,5 @@
 # Conversor de Unidades
-Projeto desenvoçvido para prática de JavaScript, HTML e CSS. O objetivo é criar um conversor interativo de unidades
+Projeto desenvolvido para prática de JavaScript, HTML e CSS. O objetivo foi criar um conversor interativo de unidades
 (como metros para centímetros, quilômetros para metros etc.) , permitindo ao usuário inserir valores e ver a conversão instantaneamente.
 
 ## Tecnologia Utilizadas
